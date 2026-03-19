@@ -10683,7 +10683,7 @@ heding animation  end
   position: relative;
   background-color: var(--title-color);
   background-position: left top;
-  padding: 152px 0;
+  padding: 100px 0;
   overflow: hidden;
   text-align: center;
   background-repeat: repeat-x;
@@ -10735,7 +10735,7 @@ heding animation  end
 /* Extra small devices */
 @media (max-width: 575px) {
   .breadcumb-wrapper {
-    padding: 130px 0;
+    padding: 70px 0;
   }
   .breadcumb-title {
     font-size: 44px;
@@ -41447,22 +41447,22 @@ span.select2-selection.select2-selection--single:focus {
 
 .space,
 .space-top {
-  padding-top: var(--section-space);
+  padding-top: 60px;
 }
 
 .space,
 .space-bottom {
-  padding-bottom: var(--section-space);
+  padding-bottom: 60px;
 }
 
 .space-extra,
 .space-extra-top {
-  padding-top: calc(var(--section-space) - 30px);
+  padding-top: 60px;
 }
 
 .space-extra,
 .space-extra-bottom {
-  padding-bottom: calc(var(--section-space) - 30px);
+  padding-bottom: 60px;
 }
 
 .space-extra2,
@@ -41525,10 +41525,10 @@ span.select2-selection.select2-selection--single:focus {
   padding-bottom: 70px;
 }
 .pt80{
-  padding-top: 80px;
+  padding-top: 60px;
 }
 .pb80{
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 .pt85{
   padding-top: 85px;
@@ -41537,16 +41537,16 @@ span.select2-selection.select2-selection--single:focus {
   padding-bottom: 85px;
 }
 .pt90{
-  padding-top: 90px;
+  padding-top: 60px;
 }
 .pb90{
-  padding-bottom: 90px;
+  padding-bottom: 60px;
 }
 .pt100{
   padding-top: 100px;
 }
 .pb100{
-  padding-bottom: 100px;
+  padding-bottom: 60px;
 }
 @media (min-width: 991px) {
   .dn{
