@@ -41562,3 +41562,8 @@ span.select2-selection.select2-selection--single:focus {
   text-align: justify;
 }
 
+@media (max-width: 767px) {
+  .jcc {
+    text-align: justify;
+  }
+}
