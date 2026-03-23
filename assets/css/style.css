@@ -8448,7 +8448,7 @@ ol.wp-block-rss {
 
 @media (max-width: 1299px) {
   .header-button .th-btn {
-    display: none;
+    /* display: none; */
   }
 }
 
