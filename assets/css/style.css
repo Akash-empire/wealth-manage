@@ -22488,8 +22488,9 @@ span.select2-selection.select2-selection--single:focus {
 
 .about-contact-grid.inner-style .about-contact-details-text {
   font-weight: 500;
-  font-size: 24px;
+  font-size: 20px;
   color: var(--title-color);
+  line-height: 1.5;
   /* Extra small devices */
 }
 
@@ -41566,4 +41567,8 @@ span.select2-selection.select2-selection--single:focus {
   .jcc {
     text-align: justify;
   }
+}
+
+.sec-title {
+  font-size: 38px;
 }
