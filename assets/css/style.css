@@ -114,7 +114,7 @@ Last Update: 20-07-2025
   --main-container: 1320px;
   --container-gutters: 24px;
   --section-space: 120px;
-  --section-space-mobile: 80px;
+  --section-space-mobile: 60px;
   --section-title-space: 60px;
   --ripple-ani-duration: 2s;
 }
@@ -6094,7 +6094,7 @@ ol.widget_recent_comments,
 }
 
 .widget:last-child.footer-widget {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .widget[data-overlay]:before {
@@ -10002,8 +10002,8 @@ heding animation  end
 
 .newsletter-top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  margin-bottom: 70px;
-  padding-bottom: 60px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 .newsletter-top .newsletter-title {
@@ -24831,7 +24831,7 @@ span.select2-selection.select2-selection--single:focus {
 
 @media (max-width: 1199px) {
   .about10.img-box10 {
-    margin: 0 80px;
+    margin: 0 0px;
     margin-bottom: 100px;
   }
 }
@@ -41520,7 +41520,7 @@ span.select2-selection.select2-selection--single:focus {
 
 
 .p1{
-  padding-top: 70px;
+  padding-top: 50px;
 }
 .p2{
   padding-bottom: 70px;
