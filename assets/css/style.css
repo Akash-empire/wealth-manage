@@ -91,7 +91,7 @@ Last Update: 20-07-2025
   --theme-color: #91191c;
   --primary-color: #91191c;
   --title-color: #0B1422;
-  --body-color: #6E7070;
+  --body-color: #363636;
   --smoke-color: #F2F5FA;
   --smoke-color2: #F3F4F6;
   --black-color: #000000;
@@ -9979,7 +9979,7 @@ heding animation  end
 }
 
 .copyright-wrap {
-  padding: 15px 0;
+  padding: 11px 0;
   background-color: #3d4859;
 }
 
@@ -10003,7 +10003,7 @@ heding animation  end
 .newsletter-top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   margin-bottom: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .newsletter-top .newsletter-title {
@@ -27926,7 +27926,7 @@ span.select2-selection.select2-selection--single:focus {
 .testi-grid2 .box-desig {
   font-weight: 400;
   font-size: 16px;
-  color: #6E7070;
+  color: #363636;
   display: block;
   margin-bottom: 10px;
 }
@@ -28719,7 +28719,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .testi-grid2.style2 .box-text {
   font-size: 16px;
-  color: #6E7070;
+  color: #363636;
   max-width: 560px;
   margin-bottom: 25px;
 }
@@ -29398,7 +29398,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .price-card3 .box-text {
-  color: #6E7070;
+  color: #363636;
 }
 
 .price-card3 .checklist {
@@ -29416,7 +29416,7 @@ span.select2-selection.select2-selection--single:focus {
   padding-left: 25px;
   font-weight: 400;
   font-size: 16px;
-  color: #6E7070;
+  color: #363636;
 }
 
 .price-card3 .price-btn {
@@ -41520,7 +41520,7 @@ span.select2-selection.select2-selection--single:focus {
 
 
 .p1{
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .p2{
   padding-bottom: 70px;
@@ -41572,3 +41572,13 @@ span.select2-selection.select2-selection--single:focus {
 .sec-title {
   font-size: 38px;
 }
+
+.jc {
+    text-align: justify;
+  }
+
+  @media (min-width: 1400px) {
+    .mpl {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
