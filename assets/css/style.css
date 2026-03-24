@@ -8233,7 +8233,7 @@ ol.wp-block-rss {
 }
 
 .main-menu > ul > li > a {
-  padding: 32.5px 0;
+  padding: 24.5px 0;
 }
 
 .main-menu > ul > li > a:hover {
@@ -39943,7 +39943,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .cta-sec6 {
   position: relative;
-  max-width: 1560px;
+  /* max-width: 1560px; */
   display: block;
   margin: auto;
   border-radius: 0px;
@@ -39954,7 +39954,7 @@ span.select2-selection.select2-selection--single:focus {
 
 @media (max-width: 991px) {
   .cta-sec6 {
-    border-radius: 40px;
+    border-radius: 0px;
   }
 }
 
